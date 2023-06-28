@@ -1,2 +1,2 @@
-# learned_optimizer_a2_ml
-Repositório criado para a implementação de um algoritmo de aprendizado de otimizadores para o trabalho final da disciplina de Machine Learning.
+# Aprendizado de Otimizadores<br>Trabalho Final de Machine Learning
+Este repositório for criado para a implementação de um algoritmo de aprendizado de otimizadores, tomando como principal referência [Li e Malik (2016)](https://arxiv.org/pdf/1606.01885.pdf). Este projeto está sendo apresentado como trabalho final da disciplina de Machine Learning, do 5º período do curso de Ciência de Dados da [FGV/EMAp](https://emap.fgv.br/).
